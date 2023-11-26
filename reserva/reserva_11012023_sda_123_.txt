@@ -1,0 +1,54 @@
+Reserva realizada
+sda
+123
+Wed Nov 01 21:51:41 CET 2023
+20:45
+12 comensales en la reserva
+
+---------- COMENSAL 1--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 2--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 3--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 4--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 5--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 6--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 7--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 8--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 9--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 10--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 11--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 12--------
+
+Ensalada, Coros, xd, lECHUIASD

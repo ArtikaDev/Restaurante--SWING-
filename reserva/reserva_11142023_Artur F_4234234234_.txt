@@ -1,0 +1,42 @@
+Reserva realizada
+Artur F
+4234234234
+Tue Nov 14 18:03:33 CET 2023
+13:45
+9 comensales en la reserva
+
+---------- COMENSAL 1--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 2--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 3--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 4--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 5--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 6--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 7--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 8--------
+
+Ensalada, bravas, lubina, crema catalana
+
+---------- COMENSAL 9--------
+
+Ensalada, bravas, lubina, crema catalana

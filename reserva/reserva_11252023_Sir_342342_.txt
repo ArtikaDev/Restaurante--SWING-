@@ -1,0 +1,34 @@
+Reserva realizada
+Sir
+342342
+Sat Nov 25 21:52:37 CET 2023
+14:30
+7 comensales en la reserva
+
+---------- COMENSAL 1--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 2--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 3--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 4--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 5--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 6--------
+
+Ensalada, Coros, xd, lECHUIASD
+
+---------- COMENSAL 7--------
+
+Ensalada, Coros, xd, lECHUIASD
